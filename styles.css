@@ -26,7 +26,6 @@
     --heading-fonts: 'Seymour One', Arial, sans-serif;
     --body-fonts: 'Lato', Arial, sans-serif;
 }
-}
 
 body{
 	font-family: var(--body-fonts);
